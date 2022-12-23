@@ -1,7 +1,7 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
+title: Jyche 
+description: ><_||_><
+url: https://Jyche.github.io
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
@@ -29,7 +29,7 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: 
   card: summary
 logo: logo.png
 social:
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: Jyche 
+  url: https://github.com/Jyche/
+  email: Jyche@gmail.com
